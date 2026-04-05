@@ -36,15 +36,6 @@ Console-based escape room with 3 puzzle rooms, a live timer, inventory system, a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shprotya&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shprotya&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 🎓 Certifications
 
 | Certificate | Issuer | Year |
