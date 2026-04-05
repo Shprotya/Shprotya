@@ -38,6 +38,7 @@ Console-based escape room with 3 puzzle rooms, a live timer, inventory system, a
 `Node.js · Express · Handlebars · Sass`
 
 Fictional Dublin florist — full e-commerce UI with cart, checkout, login, and localStorage persistence. Live on Vercel.
+
 ---
 
 ## 📫 Connect
