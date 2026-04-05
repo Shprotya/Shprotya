@@ -2,13 +2,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
 </div>
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yelyzaveta%20Kareieva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-HANDLE)
+
 
 ## Hi! I'm Lisa,
 
 Software Development Student at ATU Sligo · ~90% GPA in Year 2 · 🇺🇦 🇮🇪
 
-I'm building full-stack applications, mobile apps, and cloud-based systems across multiple languages and frameworks.
+I'm building full-stack applications, mobile apps, and cloud-based systems across multiple languages and frameworks. Let's connect and learn together!
 
 ---
 
@@ -38,9 +39,3 @@ Console-based escape room with 3 puzzle rooms, a live timer, inventory system, a
 `Node.js · Express · Handlebars · Sass`
 
 Fictional Dublin florist — full e-commerce UI with cart, checkout, login, and localStorage persistence. Live on Vercel.
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yelyzaveta%20Kareieva-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-HANDLE)
