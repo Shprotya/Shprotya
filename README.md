@@ -4,11 +4,11 @@
 
 <br/>
 
-## Yelyzaveta (Lisa) Kareieva
+## Hi! I'm Lisa,
 
 Software Development Student at ATU Sligo · ~90% GPA in Year 2 · 🇺🇦 🇮🇪
 
-Started from zero in 2022 — no computer, no background. Now building full-stack applications, mobile apps, and cloud-based systems across multiple languages and frameworks.
+I'm building full-stack applications, mobile apps, and cloud-based systems across multiple languages and frameworks.
 
 ---
 
@@ -33,16 +33,6 @@ A cross-platform mobile journaling app for stargazers. Covers inheritance, inter
 `C# · OOP · .NET Framework`
 
 Console-based escape room with 3 puzzle rooms, a live timer, inventory system, and a game-over fail state. Demonstrates abstract classes, polymorphism, and LINQ.
-
----
-
-## 🎓 Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| Intro to Astro | Scrimba | 2026 |
-| Frontend Level 2 — JavaScript, Bootstrap, Sass | Hillel IT School | 2023 |
-| Frontend Level 1 — HTML, CSS, Animations | Hillel IT School | 2022 |
 
 ---
 
