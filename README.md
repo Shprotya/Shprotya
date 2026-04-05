@@ -34,6 +34,10 @@ A cross-platform mobile journaling app for stargazers. Covers inheritance, inter
 
 Console-based escape room with 3 puzzle rooms, a live timer, inventory system, and a game-over fail state. Demonstrates abstract classes, polymorphism, and LINQ.
 
+### [Petal Poetry](https://flower-shop-phi-self.vercel.app) 
+`Node.js · Express · Handlebars · Sass`
+
+Fictional Dublin florist — full e-commerce UI with cart, checkout, login, and localStorage persistence. Live on Vercel.
 ---
 
 ## 📫 Connect
